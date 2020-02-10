@@ -101,3 +101,9 @@ deploy:
   type: git
   repo: https://github.com/boyd4y/boyd4y.github.io
   branch: master
+
+# Admin
+admin:
+  username: winston
+  password_hash: $2a$10$EQI2WuQFqwBVJgQMGjPz3uY5fmznQxxd78guU/eKDDDxsd4ATiwdm
+  secret: winston_yang_door
