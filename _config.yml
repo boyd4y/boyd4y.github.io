@@ -98,4 +98,6 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/boyd4y/boyd4y.github.io
+  branch: master
